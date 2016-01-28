@@ -1,0 +1,18 @@
+﻿Build started 27/11/2014 03:04:20.
+     1>Project "E:\Workspace\Visual Studio 2013 projects\CTDL_Cay tu dien\CTDL_Cay tu dien\CTDL_Cay tu dien.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>e:\workspace\visual studio 2013 projects\ctdl_cay tu dien\ctdl_cay tu dien\dictionary.h(493): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\workspace\visual studio 2013 projects\ctdl_cay tu dien\ctdl_cay tu dien\main.cpp(86): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\workspace\visual studio 2013 projects\ctdl_cay tu dien\ctdl_cay tu dien\dictionary.h(345): warning C4715: 'Dictionary::searchWord_noDisplay' : not all control paths return a value
+     1>e:\workspace\visual studio 2013 projects\ctdl_cay tu dien\ctdl_cay tu dien\dictionary.h(389): warning C4715: 'Dictionary::searchWord_returnMeaning' : not all control paths return a value
+     1>e:\workspace\visual studio 2013 projects\ctdl_cay tu dien\ctdl_cay tu dien\dictionary.h(463): warning C4715: 'Dictionary::deleteWord_noDisplay' : not all control paths return a value
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\Workspace\Visual Studio 2013 projects\CTDL_Cay tu dien\Debug\CTDL_Cay tu dien.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\Workspace\Visual Studio 2013 projects\CTDL_Cay tu dien\Debug\CTDL_Cay tu dien.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\Workspace\Visual Studio 2013 projects\CTDL_Cay tu dien\Debug\CTDL_Cay tu dien.lib" /MACHINE:X86 Debug\main.obj
+         CTDL_Cay tu dien.vcxproj -> E:\Workspace\Visual Studio 2013 projects\CTDL_Cay tu dien\Debug\CTDL_Cay tu dien.exe
+     1>Done Building Project "E:\Workspace\Visual Studio 2013 projects\CTDL_Cay tu dien\CTDL_Cay tu dien\CTDL_Cay tu dien.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:06.70

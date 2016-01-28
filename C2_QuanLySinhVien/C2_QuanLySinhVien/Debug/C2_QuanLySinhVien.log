@@ -1,0 +1,70 @@
+﻿  SinhVienDaiCuong.cpp
+e:\workspace\visual studio 2013 projects\c2_quanlysinhvien\c2_quanlysinhvien\sinhviendaicuong.h(22): error C2365: 'SinhVienDaiCuong::TongTinDat' : redefinition; previous definition was 'data member'
+          e:\workspace\visual studio 2013 projects\c2_quanlysinhvien\c2_quanlysinhvien\sinhviendaicuong.h(15) : see declaration of 'SinhVienDaiCuong::TongTinDat'
+e:\workspace\visual studio 2013 projects\c2_quanlysinhvien\c2_quanlysinhvien\sinhviendaicuong.h(23): error C2365: 'SinhVienDaiCuong::TongTinCho' : redefinition; previous definition was 'data member'
+          e:\workspace\visual studio 2013 projects\c2_quanlysinhvien\c2_quanlysinhvien\sinhviendaicuong.h(16) : see declaration of 'SinhVienDaiCuong::TongTinCho'
+e:\workspace\visual studio 2013 projects\c2_quanlysinhvien\c2_quanlysinhvien\sinhviendaicuong.cpp(4): error C2600: 'SinhVienDaiCuong::SinhVienDaiCuong' : cannot define a compiler-generated special member function (must be declared in the class first)
+e:\workspace\visual studio 2013 projects\c2_quanlysinhvien\c2_quanlysinhvien\sinhviendaicuong.cpp(12): error C2065: 'KetQua' : undeclared identifier
+e:\workspace\visual studio 2013 projects\c2_quanlysinhvien\c2_quanlysinhvien\sinhviendaicuong.cpp(12): error C2923: 'std::vector' : 'KetQua' is not a valid template type argument for parameter '_Ty'
+e:\workspace\visual studio 2013 projects\c2_quanlysinhvien\c2_quanlysinhvien\sinhviendaicuong.cpp(12): error C2556: 'std::vector SinhVienDaiCuong::getMonDC(void)' : overloaded function differs only by return type from 'std::vector<SinhVienDaiCuong::KetQua,std::allocator<_Ty>> SinhVienDaiCuong::getMonDC(void)'
+          with
+          [
+              _Ty=SinhVienDaiCuong::KetQua
+          ]
+          e:\workspace\visual studio 2013 projects\c2_quanlysinhvien\c2_quanlysinhvien\sinhviendaicuong.h(20) : see declaration of 'SinhVienDaiCuong::getMonDC'
+e:\workspace\visual studio 2013 projects\c2_quanlysinhvien\c2_quanlysinhvien\sinhviendaicuong.cpp(12): error C2371: 'SinhVienDaiCuong::getMonDC' : redefinition; different basic types
+          e:\workspace\visual studio 2013 projects\c2_quanlysinhvien\c2_quanlysinhvien\sinhviendaicuong.h(20) : see declaration of 'SinhVienDaiCuong::getMonDC'
+e:\workspace\visual studio 2013 projects\c2_quanlysinhvien\c2_quanlysinhvien\sinhviendaicuong.cpp(15): error C2601: 'SinhVienDaiCuong::DiemTB' : local function definitions are illegal
+          e:\workspace\visual studio 2013 projects\c2_quanlysinhvien\c2_quanlysinhvien\sinhviendaicuong.cpp(12): this line contains a '{' which has not yet been matched
+e:\workspace\visual studio 2013 projects\c2_quanlysinhvien\c2_quanlysinhvien\sinhviendaicuong.cpp(20): error C2063: 'SinhVienDaiCuong::TongTinDat' : not a function
+e:\workspace\visual studio 2013 projects\c2_quanlysinhvien\c2_quanlysinhvien\sinhviendaicuong.cpp(21): error C2601: 'SinhVienDaiCuong::TongTinDat' : local function definitions are illegal
+          e:\workspace\visual studio 2013 projects\c2_quanlysinhvien\c2_quanlysinhvien\sinhviendaicuong.cpp(12): this line contains a '{' which has not yet been matched
+e:\workspace\visual studio 2013 projects\c2_quanlysinhvien\c2_quanlysinhvien\sinhviendaicuong.cpp(22): warning C4018: '<' : signed/unsigned mismatch
+e:\workspace\visual studio 2013 projects\c2_quanlysinhvien\c2_quanlysinhvien\sinhviendaicuong.cpp(23): error C2065: 'MH' : undeclared identifier
+e:\workspace\visual studio 2013 projects\c2_quanlysinhvien\c2_quanlysinhvien\sinhviendaicuong.cpp(23): error C2228: left of '.size' must have class/struct/union
+          type is 'unknown-type'
+e:\workspace\visual studio 2013 projects\c2_quanlysinhvien\c2_quanlysinhvien\sinhviendaicuong.cpp(24): error C2065: 'MH' : undeclared identifier
+e:\workspace\visual studio 2013 projects\c2_quanlysinhvien\c2_quanlysinhvien\sinhviendaicuong.cpp(24): error C2228: left of '.getMaMon' must have class/struct/union
+e:\workspace\visual studio 2013 projects\c2_quanlysinhvien\c2_quanlysinhvien\sinhviendaicuong.cpp(26): error C2065: 'MH' : undeclared identifier
+e:\workspace\visual studio 2013 projects\c2_quanlysinhvien\c2_quanlysinhvien\sinhviendaicuong.cpp(26): error C2228: left of '.getSoTin' must have class/struct/union
+e:\workspace\visual studio 2013 projects\c2_quanlysinhvien\c2_quanlysinhvien\sinhviendaicuong.cpp(34): error C2039: 'TongTinCho' : is not a member of 'SinhVienDaiCuong'
+          e:\workspace\visual studio 2013 projects\c2_quanlysinhvien\c2_quanlysinhvien\sinhviendaicuong.h(5) : see declaration of 'SinhVienDaiCuong'
+e:\workspace\visual studio 2013 projects\c2_quanlysinhvien\c2_quanlysinhvien\sinhviendaicuong.cpp(36): error C2065: 'MonDC' : undeclared identifier
+e:\workspace\visual studio 2013 projects\c2_quanlysinhvien\c2_quanlysinhvien\sinhviendaicuong.cpp(36): error C2228: left of '.size' must have class/struct/union
+          type is 'unknown-type'
+e:\workspace\visual studio 2013 projects\c2_quanlysinhvien\c2_quanlysinhvien\sinhviendaicuong.cpp(37): warning C4018: '<' : signed/unsigned mismatch
+e:\workspace\visual studio 2013 projects\c2_quanlysinhvien\c2_quanlysinhvien\sinhviendaicuong.cpp(38): error C2065: 'MonDC' : undeclared identifier
+e:\workspace\visual studio 2013 projects\c2_quanlysinhvien\c2_quanlysinhvien\sinhviendaicuong.cpp(38): error C2228: left of '.MaMon' must have class/struct/union
+e:\workspace\visual studio 2013 projects\c2_quanlysinhvien\c2_quanlysinhvien\sinhviendaicuong.cpp(39): error C2065: 'MonDC' : undeclared identifier
+e:\workspace\visual studio 2013 projects\c2_quanlysinhvien\c2_quanlysinhvien\sinhviendaicuong.cpp(39): error C2228: left of '.Diem' must have class/struct/union
+e:\workspace\visual studio 2013 projects\c2_quanlysinhvien\c2_quanlysinhvien\sinhviendaicuong.cpp(48): error C2352: 'SinhVienDaiCuong::~SinhVienDaiCuong' : illegal call of non-static member function
+          e:\workspace\visual studio 2013 projects\c2_quanlysinhvien\c2_quanlysinhvien\sinhviendaicuong.h(26) : compiler has generated 'SinhVienDaiCuong::~SinhVienDaiCuong' here
+e:\workspace\visual studio 2013 projects\c2_quanlysinhvien\c2_quanlysinhvien\sinhviendaicuong.cpp(51): fatal error C1075: end of file found before the left brace '{' at 'e:\workspace\visual studio 2013 projects\c2_quanlysinhvien\c2_quanlysinhvien\sinhviendaicuong.cpp(12)' was matched
+  SinhVien.cpp
+e:\workspace\visual studio 2013 projects\c2_quanlysinhvien\c2_quanlysinhvien\sinhviendaicuong.h(22): error C2365: 'SinhVienDaiCuong::TongTinDat' : redefinition; previous definition was 'data member'
+          e:\workspace\visual studio 2013 projects\c2_quanlysinhvien\c2_quanlysinhvien\sinhviendaicuong.h(15) : see declaration of 'SinhVienDaiCuong::TongTinDat'
+e:\workspace\visual studio 2013 projects\c2_quanlysinhvien\c2_quanlysinhvien\sinhviendaicuong.h(23): error C2365: 'SinhVienDaiCuong::TongTinCho' : redefinition; previous definition was 'data member'
+          e:\workspace\visual studio 2013 projects\c2_quanlysinhvien\c2_quanlysinhvien\sinhviendaicuong.h(16) : see declaration of 'SinhVienDaiCuong::TongTinCho'
+  MonHoc.cpp
+e:\workspace\visual studio 2013 projects\c2_quanlysinhvien\c2_quanlysinhvien\sinhviendaicuong.h(22): error C2365: 'SinhVienDaiCuong::TongTinDat' : redefinition; previous definition was 'data member'
+          e:\workspace\visual studio 2013 projects\c2_quanlysinhvien\c2_quanlysinhvien\sinhviendaicuong.h(15) : see declaration of 'SinhVienDaiCuong::TongTinDat'
+e:\workspace\visual studio 2013 projects\c2_quanlysinhvien\c2_quanlysinhvien\sinhviendaicuong.h(23): error C2365: 'SinhVienDaiCuong::TongTinCho' : redefinition; previous definition was 'data member'
+          e:\workspace\visual studio 2013 projects\c2_quanlysinhvien\c2_quanlysinhvien\sinhviendaicuong.h(16) : see declaration of 'SinhVienDaiCuong::TongTinCho'
+e:\workspace\visual studio 2013 projects\c2_quanlysinhvien\c2_quanlysinhvien\monhoc.cpp(81): error C2659: '=' : function as left operand
+e:\workspace\visual studio 2013 projects\c2_quanlysinhvien\c2_quanlysinhvien\monhoc.cpp(82): error C2659: '=' : function as left operand
+e:\workspace\visual studio 2013 projects\c2_quanlysinhvien\c2_quanlysinhvien\monhoc.cpp(83): error C2659: '=' : function as left operand
+e:\workspace\visual studio 2013 projects\c2_quanlysinhvien\c2_quanlysinhvien\monhoc.cpp(84): error C2659: '=' : function as left operand
+e:\workspace\visual studio 2013 projects\c2_quanlysinhvien\c2_quanlysinhvien\monhoc.cpp(85): error C2659: '=' : function as left operand
+e:\workspace\visual studio 2013 projects\c2_quanlysinhvien\c2_quanlysinhvien\monhoc.cpp(89): error C2664: 'std::_Vector_iterator<std::_Vector_val<std::_Simple_types<MonHoc>>> std::vector<MonHoc,std::allocator<_Ty>>::erase(std::_Vector_const_iterator<std::_Vector_val<std::_Simple_types<MonHoc>>>,std::_Vector_const_iterator<std::_Vector_val<std::_Simple_types<MonHoc>>>)' : cannot convert argument 1 from 'int' to 'std::_Vector_const_iterator<std::_Vector_val<std::_Simple_types<MonHoc>>>'
+          with
+          [
+              _Ty=MonHoc
+          ]
+          No constructor could take the source type, or constructor overload resolution was ambiguous
+e:\workspace\visual studio 2013 projects\c2_quanlysinhvien\c2_quanlysinhvien\monhoc.cpp(148): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+  Khoa.cpp
+e:\workspace\visual studio 2013 projects\c2_quanlysinhvien\c2_quanlysinhvien\sinhviendaicuong.h(22): error C2365: 'SinhVienDaiCuong::TongTinDat' : redefinition; previous definition was 'data member'
+          e:\workspace\visual studio 2013 projects\c2_quanlysinhvien\c2_quanlysinhvien\sinhviendaicuong.h(15) : see declaration of 'SinhVienDaiCuong::TongTinDat'
+e:\workspace\visual studio 2013 projects\c2_quanlysinhvien\c2_quanlysinhvien\sinhviendaicuong.h(23): error C2365: 'SinhVienDaiCuong::TongTinCho' : redefinition; previous definition was 'data member'
+          e:\workspace\visual studio 2013 projects\c2_quanlysinhvien\c2_quanlysinhvien\sinhviendaicuong.h(16) : see declaration of 'SinhVienDaiCuong::TongTinCho'
+  Generating Code...

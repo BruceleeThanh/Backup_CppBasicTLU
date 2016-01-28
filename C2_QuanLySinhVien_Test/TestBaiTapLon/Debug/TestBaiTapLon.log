@@ -1,0 +1,13 @@
+﻿  Menu.cpp
+c:\users\brucelee thanh\desktop\testbaitaplon\testbaitaplon\menu.cpp(233): warning C4018: '<' : signed/unsigned mismatch
+c:\users\brucelee thanh\desktop\testbaitaplon\testbaitaplon\menu.cpp(280): warning C4018: '<' : signed/unsigned mismatch
+c:\users\brucelee thanh\desktop\testbaitaplon\testbaitaplon\menu.cpp(332): warning C4018: '<' : signed/unsigned mismatch
+c:\users\brucelee thanh\desktop\testbaitaplon\testbaitaplon\menu.cpp(338): warning C4018: '<' : signed/unsigned mismatch
+c:\users\brucelee thanh\desktop\testbaitaplon\testbaitaplon\menu.cpp(342): warning C4258: 'i' : definition from the for loop is ignored; the definition from the enclosing scope is used
+          c:\users\brucelee thanh\desktop\testbaitaplon\testbaitaplon\menu.cpp(338) : definition of 'i' ignored
+          c:\users\brucelee thanh\desktop\testbaitaplon\testbaitaplon\menu.cpp(332) : definition of 'i' used
+c:\users\brucelee thanh\desktop\testbaitaplon\testbaitaplon\menu.cpp(343): warning C4258: 'i' : definition from the for loop is ignored; the definition from the enclosing scope is used
+          c:\users\brucelee thanh\desktop\testbaitaplon\testbaitaplon\menu.cpp(338) : definition of 'i' ignored
+          c:\users\brucelee thanh\desktop\testbaitaplon\testbaitaplon\menu.cpp(332) : definition of 'i' used
+c:\users\brucelee thanh\desktop\testbaitaplon\testbaitaplon\menu.cpp(323): warning C4101: 'vitri' : unreferenced local variable
+  TestBaiTapLon.vcxproj -> C:\Users\Brucelee Thanh\Desktop\TestBaiTapLon\Debug\TestBaiTapLon.exe

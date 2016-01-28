@@ -1,0 +1,30 @@
+            Danh sach 3 Ky su.
+
+Ky su thu 1: 
+Ho ten: Nguyen Trung Thanh
+Sinh nhat 6/2/1995
+Que quan: Ha Dong
+Nganh hoc: Toan tin
+Nam tot nghiep 2017
+
+Ky su thu 2: 
+Ho ten: Bui Manh Kien
+Sinh nhat 15/4/1995
+Que quan: Chuong My
+Nganh hoc: Toan tin
+Nam tot nghiep 2018
+
+Ky su thu 3: 
+Ho ten: Nguyen Duc Thang
+Sinh nhat 5/4/1995
+Que quan: Tu Liem
+Nganh hoc: Toan tin
+Nam tot nghiep 2018
+
+
+Ky su tot nghiep gan nhat la: 
+Ho ten: Bui Manh Kien
+Sinh nhat 15/4/1995
+Que quan: Chuong My
+Nganh hoc: Toan tin
+Nam tot nghiep 2018

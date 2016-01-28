@@ -1,0 +1,13 @@
+DSTT$Dai So Tuyen Tinh$TT$3$1
+GT1$Giai Tich 1$TT$3$1
+GT2$Giai Tich 2$TT$3$1
+CTDL$Cau Truc Du Lieu$TT$3$1
+TDC$Tin Dai Cuong$TT$3$0
+C1$Ngon Ngu Lap Trinh$TT$3$0
+C2$Lap Trinh Huong Doi Tuong$TT$3$0
+KTM$Ke Toan My$KT$3$1
+MAR$Marketing$KT$3$1
+NMKT$Nhap Mon Kinh Te$KT$2$0
+DSVH$Di San Van Hoa$XH$3$1
+GP1$Giai Phau 1$YTE$3$1
+GP2$Giai Phau 2$YTE$3$1

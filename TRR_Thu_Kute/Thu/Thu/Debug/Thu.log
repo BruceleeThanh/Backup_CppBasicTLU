@@ -1,0 +1,5 @@
+﻿  main.cpp
+c:\users\brucelee thanh\desktop\thu_kute\thu\thu\dothi.h(41): warning C4553: '==' : operator has no effect; did you intend '='?
+c:\users\brucelee thanh\desktop\thu_kute\thu\thu\dothi.h(42): warning C4553: '==' : operator has no effect; did you intend '='?
+c:\users\brucelee thanh\desktop\thu_kute\thu\thu\dothi.h(54): warning C4553: '==' : operator has no effect; did you intend '='?
+  Thu.vcxproj -> C:\Users\Brucelee Thanh\Desktop\Thu_Kute\Thu\Debug\Thu.exe

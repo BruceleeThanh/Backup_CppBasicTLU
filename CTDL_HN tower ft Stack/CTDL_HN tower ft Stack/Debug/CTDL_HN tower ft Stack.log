@@ -1,0 +1,3 @@
+﻿  main.cpp
+e:\workspace\visual studio 2013 projects\ctdl_hn tower ft stack\ctdl_hn tower ft stack\stack.h(39): warning C4715: 'Stack<std::basic_string<char,std::char_traits<char>,std::allocator<char> > >::getTop' : not all control paths return a value
+  CTDL_HN tower ft Stack.vcxproj -> E:\Workspace\Visual Studio 2013 projects\CTDL_HN tower ft Stack\Debug\CTDL_HN tower ft Stack.exe

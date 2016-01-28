@@ -1,0 +1,7 @@
+﻿  Source.cpp
+e:\workspace\visual studio 2013 projects\ctdl_list cua anh loi\test\test\single_linked_list.h(36): warning C4812: obsolete declaration style: please use 'Single_Linked_List<Type>::Single_Linked_List' instead
+e:\workspace\visual studio 2013 projects\ctdl_list cua anh loi\test\test\single_linked_list.h(36): warning C4812: obsolete declaration style: please use 'Single_Linked_List<int>::Single_Linked_List' instead
+          e:\workspace\visual studio 2013 projects\ctdl_list cua anh loi\test\test\single_linked_list.h(36) : while compiling class template member function 'Single_Linked_List<int>::Single_Linked_List(const Single_Linked_List<int> &)'
+          e:\workspace\visual studio 2013 projects\ctdl_list cua anh loi\test\test\source.cpp(17) : see reference to function template instantiation 'Single_Linked_List<int>::Single_Linked_List(const Single_Linked_List<int> &)' being compiled
+          e:\workspace\visual studio 2013 projects\ctdl_list cua anh loi\test\test\source.cpp(6) : see reference to class template instantiation 'Single_Linked_List<int>' being compiled
+  Test.vcxproj -> E:\Workspace\Visual Studio 2013 projects\CTDL_List cua anh Loi\Test\Debug\Test.exe

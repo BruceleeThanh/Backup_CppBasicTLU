@@ -1,0 +1,28 @@
+        Cac Phan So vua nhap la.
+Phan So thu 1 la:1/3
+
+Phan So thu 2 la:5/3
+
+Phan So thu 3 la:16/13
+
+Phan So thu 4 la:10
+
+Phan So thu 5 la:99/50
+
+
+Tong cac phan so la: 9887/650
+
+Phan So lon nhat la: 10
+
+
+       Sap xep cac Phan So.
+Phan So lon thu 1 la:10
+
+Phan So lon thu 2 la:99/50
+
+Phan So lon thu 3 la:5/3
+
+Phan So lon thu 4 la:16/13
+
+Phan So lon thu 5 la:1/3
+

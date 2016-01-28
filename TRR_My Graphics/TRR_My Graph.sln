@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TRR_My Graphics", "TRR_My Graphics\TRR_My Graphics.vcxproj", "{1F23BD29-C8A0-4A91-925D-3E98A0E9A38F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1F23BD29-C8A0-4A91-925D-3E98A0E9A38F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{1F23BD29-C8A0-4A91-925D-3E98A0E9A38F}.Debug|Win32.Build.0 = Debug|Win32
+		{1F23BD29-C8A0-4A91-925D-3E98A0E9A38F}.Release|Win32.ActiveCfg = Release|Win32
+		{1F23BD29-C8A0-4A91-925D-3E98A0E9A38F}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

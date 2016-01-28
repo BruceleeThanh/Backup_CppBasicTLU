@@ -1,0 +1,16 @@
+A123456
+Nguyen Van Anh
+01/01/1990
+Ha Noi
+Long Bien, Ha Noi
+0123456789
+TT
+TDC$Tin Dai Cuong$3$9.5/C1$Ngon Ngu Lap Trinh$3$8.7
+A123457
+Bui Thi Xuan
+02/02/1991
+Quang Ninh
+Hoang Mai, Ha Noi
+9874563210
+TT
+C1$Ngon Ngu Lap Trinh$3$6/C2$Lap Trinh Huong Doi Tuong$3$9

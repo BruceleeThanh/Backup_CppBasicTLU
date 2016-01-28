@@ -1,0 +1,18 @@
+﻿Build started 27/03/2014 20:51:55.
+     1>Project "C:\Users\ASDAD\Documents\Visual Studio 2013\Projects\Cong tru nhan chia toi gian phan so_dung ham\xem xong xoa.vcxproj" on node 2 (Rebuild target(s)).
+     1>C:\Program Files\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(381,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (xem xong xoa.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+     1>ClCompile:
+         C:\Program Files\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Source.cpp Source1.cpp
+         Source1.cpp
+     1>c:\users\asdad\documents\visual studio 2013\projects\cong tru nhan chia toi gian phan so_dung ham\source1.cpp(5): error C2065: 'cout' : undeclared identifier
+     1>c:\users\asdad\documents\visual studio 2013\projects\cong tru nhan chia toi gian phan so_dung ham\source1.cpp(5): error C2065: 'cin' : undeclared identifier
+     1>c:\users\asdad\documents\visual studio 2013\projects\cong tru nhan chia toi gian phan so_dung ham\source1.cpp(6): error C2065: 'cout' : undeclared identifier
+     1>c:\users\asdad\documents\visual studio 2013\projects\cong tru nhan chia toi gian phan so_dung ham\source1.cpp(6): error C2065: 'cin' : undeclared identifier
+     1>c:\users\asdad\documents\visual studio 2013\projects\cong tru nhan chia toi gian phan so_dung ham\source1.cpp(13): error C2065: 'cout' : undeclared identifier
+         Source.cpp
+         Generating Code...
+     1>Done Building Project "C:\Users\ASDAD\Documents\Visual Studio 2013\Projects\Cong tru nhan chia toi gian phan so_dung ham\xem xong xoa.vcxproj" (Rebuild target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:01.86

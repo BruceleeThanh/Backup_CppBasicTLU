@@ -1,0 +1,9 @@
+﻿  main.cpp
+e:\workspace\visual studio 2013 projects\ttnt_perceptron_cuoiky\ttnt_perceptron_cuoiky\hocsinh.h(16): warning C4018: '<' : signed/unsigned mismatch
+e:\workspace\visual studio 2013 projects\ttnt_perceptron_cuoiky\ttnt_perceptron_cuoiky\main.cpp(109): warning C4018: '<' : signed/unsigned mismatch
+e:\workspace\visual studio 2013 projects\ttnt_perceptron_cuoiky\ttnt_perceptron_cuoiky\main.cpp(125): warning C4018: '<' : signed/unsigned mismatch
+e:\workspace\visual studio 2013 projects\ttnt_perceptron_cuoiky\ttnt_perceptron_cuoiky\main.cpp(130): warning C4018: '<' : signed/unsigned mismatch
+e:\workspace\visual studio 2013 projects\ttnt_perceptron_cuoiky\ttnt_perceptron_cuoiky\main.cpp(162): warning C4018: '<' : signed/unsigned mismatch
+e:\workspace\visual studio 2013 projects\ttnt_perceptron_cuoiky\ttnt_perceptron_cuoiky\main.cpp(189): warning C4018: '<' : signed/unsigned mismatch
+e:\workspace\visual studio 2013 projects\ttnt_perceptron_cuoiky\ttnt_perceptron_cuoiky\main.cpp(196): warning C4018: '<' : signed/unsigned mismatch
+  TTNT_Perceptron_CuoiKy.vcxproj -> E:\Workspace\Visual Studio 2013 projects\TTNT_Perceptron_CuoiKy\Debug\TTNT_Perceptron_CuoiKy.exe

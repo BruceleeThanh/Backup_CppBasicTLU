@@ -1,0 +1,9 @@
+﻿  main.cpp
+e:\workspace\visual studio 2013 projects\ttnt_cotacanh\ttnt_cotacanh\main.cpp(272): warning C4018: '<' : signed/unsigned mismatch
+e:\workspace\visual studio 2013 projects\ttnt_cotacanh\ttnt_cotacanh\main.cpp(286): warning C4018: '<' : signed/unsigned mismatch
+e:\workspace\visual studio 2013 projects\ttnt_cotacanh\ttnt_cotacanh\main.cpp(331): warning C4018: '<' : signed/unsigned mismatch
+e:\workspace\visual studio 2013 projects\ttnt_cotacanh\ttnt_cotacanh\main.cpp(351): warning C4018: '<' : signed/unsigned mismatch
+e:\workspace\visual studio 2013 projects\ttnt_cotacanh\ttnt_cotacanh\main.cpp(361): warning C4018: '<' : signed/unsigned mismatch
+e:\workspace\visual studio 2013 projects\ttnt_cotacanh\ttnt_cotacanh\main.cpp(109): warning C4715: 'KiemTraDieuKien' : not all control paths return a value
+e:\workspace\visual studio 2013 projects\ttnt_cotacanh\ttnt_cotacanh\main.cpp(358): warning C4715: 'TimCha' : not all control paths return a value
+  TTNT_CoTaCanh.vcxproj -> E:\Workspace\Visual Studio 2013 projects\TTNT_CoTaCanh\Debug\TTNT_CoTaCanh.exe
